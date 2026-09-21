@@ -1,0 +1,8 @@
+patch:
+  # 将候选词排列方式改为横向
+  "style/horizontal": true
+  # 字体与字号
+  "style/font_face": "PingFang SC"
+  "style/font_point": 16          # 候选字大小（默认18，已调小）
+  "style/label_font_point": 14    # 序号大小
+  "style/comment_font_point": 14  # 拼音/编码注释大小
